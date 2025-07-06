@@ -1,6 +1,6 @@
 Quiz App
 
-An interactive and fully responsive quiz application crafted with HTML, CSS, and JavaScript.
+An interactive and fully responsive quiz application crafted with HTML, CSS, and JavaScript. 
 
 🔗 Live Demo
 👉 [Click here to play the quiz](https://arshitayal.github.io/Quiz-App/)
